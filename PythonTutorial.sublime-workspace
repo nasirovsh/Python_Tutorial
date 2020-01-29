@@ -3,6 +3,78 @@
 	{
 		"selected_items":
 		[
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"car",
+				"car_ages"
+			],
+			[
+				"tes",
+				"test_list"
+			],
+			[
+				"ci",
+				"cities"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"te",
+				"test_int"
+			],
+			[
+				"foo",
+				"food_dict"
+			],
+			[
+				"as",
+				"asyncio"
+			],
+			[
+				"from",
+				"fromBirthYear"
+			],
+			[
+				"M",
+				"Man"
+			],
+			[
+				"Ma",
+				"man"
+			],
+			[
+				"class",
+				"classmethod_1"
+			],
+			[
+				"fath",
+				"fatherPersonAgeDiff"
+			],
+			[
+				"fa",
+				"fatherAge"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"pers",
+				"person1"
+			],
+			[
+				"fr",
+				"fromBirthYear"
+			],
+			[
+				"a",
+				"age"
+			]
 		]
 	},
 	"buffers":
@@ -14,11 +86,99 @@
 				"buffer_size": 1006,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "collections/test_defaultdict.py",
+			"settings":
+			{
+				"buffer_size": 1657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Internal_Methods/classmethod_1.py",
+			"settings":
+			{
+				"buffer_size": 614,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Internal_Methods/classmethod_2.py",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Concurrency/asyncio_0.py",
+			"settings":
+			{
+				"buffer_size": 695,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PythonTutorial.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 8064,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 6 files for \"MyTutorial\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 106,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TODO.md",
+			"settings":
+			{
+				"buffer_size": 53,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -50,21 +210,24 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/shavkat/LocalDocuments/Projects/github/mytutorials/Python_Tutorial",
-		"/Users/shavkat/LocalDocuments/Projects/github/mytutorials/Python_Tutorial/Internal_Methods"
+		"/Users/shavkat/LocalDocuments/Projects/github/__myrepos__/Python_Tutorial",
+		"/Users/shavkat/LocalDocuments/Projects/github/__myrepos__/Python_Tutorial/collections",
+		"/Users/shavkat/LocalDocuments/Projects/github/__myrepos__/Python_Tutorial/Concurrency"
 	],
 	"file_history":
 	[
+		"/Users/shavkat/LocalDocuments/Projects/github/__myrepos__/Python_Tutorial/Internal_Methods/classmethod_1.py"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 101.0,
 		"where_history":
 		[
+			"/Users/shavkat/LocalDocuments/Projects/github/__myrepos__/Python_Tutorial"
 		]
 	},
 	"find_state":
@@ -72,6 +235,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"MyTutorial"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -89,13 +253,13 @@
 	"folders":
 	[
 		{
-			"path": "/Users/shavkat/LocalDocuments/Projects/github/mytutorials/Python_Tutorial"
+			"path": "/Users/shavkat/LocalDocuments/Projects/github/__myrepos__/Python_Tutorial"
 		}
 	],
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -111,8 +275,8 @@
 						"selection":
 						[
 							[
-								618,
-								618
+								328,
+								328
 							]
 						],
 						"settings":
@@ -123,7 +287,239 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "collections/test_defaultdict.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1542,
+								1542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 187.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Internal_Methods/classmethod_1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Internal_Methods/classmethod_2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1044,
+								1044
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Concurrency/asyncio_0.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "PythonTutorial.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "TODO.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -131,11 +527,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 24.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -160,15 +556,19 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 221.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
 	"project": "",
 	"replace":
 	{
-		"height": 0.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -206,7 +606,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 452.0,
+	"side_bar_width": 217.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
