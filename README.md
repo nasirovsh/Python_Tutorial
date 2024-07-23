@@ -1,5 +1,5 @@
 # Python_Tutorial
-Practical examples to Python topics
+Practical examples of using various Python features.
 
 ## Internal Methods
 
